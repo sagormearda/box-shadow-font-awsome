@@ -1,0 +1,160 @@
+                h2 {
+                    background-color: brown;
+                    color: white;
+                    text-transform: capitalize;
+                    text-shadow: 2px 2px blue;
+                    text-align: center;
+                    padding: 20px 10px;
+                    font-style: oblique;
+                    height: 50px;
+                    width: 440px;
+                    font-size: 25px;
+                    margin: 20px auto;
+                }
+                
+                .font {
+                    /* background-color: rgb(199, 230, 230); */
+                    height: 20px;
+                    padding: 100px 20px;
+                    margin: 100px 80px;
+                    text-align: center;
+                }
+                
+                .font a i {
+                    /* background-color: blue; */
+                    font-size: 100px;
+                    margin: 50px 29px;
+                    text-shadow: 5px 5px 5px rgb(221, 164, 164);
+                    /* color: red; */
+                    margin: 2px 3px;
+                }
+                
+                .bar {
+                    background-color: gray;
+                    padding: 10px 20px;
+                    text-align: center;
+                    margin: 20px 20px;
+                }
+                
+                p {
+                    font-size: 32px;
+                    font-weight: 900;
+                    font-family: cursive;
+                    text-shadow: 2px 3px pink;
+                    color: aqua;
+                    text-transform: uppercase;
+                }
+                
+                .h-1 {
+                    /* background-color: black; */
+                    color: white;
+                    text-shadow: 3px 2px 7px blueviolet;
+                }
+                
+                .h-2 {
+                    color: rgb(216, 20, 20);
+                    text-shadow: 4px 2px 7px pink;
+                }
+                
+                .h-3 {}
+                
+                .h-4 {
+                    color: blue;
+                    text-shadow: 3px 2px 6px green;
+                }
+                
+                .h-5 {
+                    color: yellow;
+                    text-shadow: 3px 2px 9px rgb(87, 5, 5);
+                }
+                
+                .h-6 {
+                    color: white;
+                    text-shadow: 3px 2px 20px black;
+                }
+                
+                .bar a i {
+                    font-size: 40px;
+                    margin: 0px 70px;
+                }
+                
+                .f-1 {
+                    color: blue;
+                    margin: 20px 10px;
+                }
+                
+                .f-2 {
+                    color: rgb(53, 194, 53);
+                    /* margin: 20px 10px; */
+                }
+                
+                .f-3 {
+                    color: rgb(151, 10, 10);
+                    margin: 20px 10px;
+                }
+                
+                .f-4 {
+                    color: rgb(133, 94, 21);
+                    margin: 20px 10px;
+                }
+                
+                .f-5 {
+                    color: rgb(6, 6, 65);
+                    margin: 20px 10px;
+                }
+                
+                .f-6 {
+                    color: green;
+                    margin: 20px 10px;
+                }
+                
+                .f-7 {
+                    color: red;
+                }
+                
+                .box {
+                    height: 200px;
+                    width: 200px;
+                    border: 4px double red;
+                    box-shadow: 0px 0px 20px 7px black;
+                    border-radius: 20px;
+                    background-color: lightcoral;
+                    font-size: 20px;
+                    color: white;
+                    text-shadow: 2px 2px black;
+                    text-transform: capitalize;
+                }
+                
+                .box-1 {
+                    height: 200px;
+                    width: 400px;
+                    font-size: 27px;
+                    font-style: italic;
+                    text-transform: capitalize;
+                    text-shadow: 2px 2px rgb(29, 104, 42);
+                    border: 4px dotted blue;
+                    margin: 50px;
+                    border-radius: 20px;
+                    background-color: lightgrey;
+                    box-shadow: 10px 10px 20px 7px rgb(179, 41, 41);
+                }
+                
+                .box-2 {
+                    height: 100px;
+                    width: 500px;
+                    font-size: 18px;
+                    font-weight: 900;
+                    text-shadow: 2px 2px rgb(7, 7, 20);
+                    font-family: cursive;
+                    text-transform: capitalize;
+                    color: red;
+                    background-color: lightpink;
+                    border: 4px dashed magenta;
+                    margin: 20px auto;
+                    border-radius: 20px;
+                    box-shadow: 4px 3px 20px 7px rgb(2, 31, 2);
+                }
+                
+                body {
+                    background-color: lavenderblush;
+                }
